@@ -1,2 +1,2 @@
-# Rep1
-My first website!
+# Welcome!
+My first website is waiting for you to explore!
